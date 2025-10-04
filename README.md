@@ -1,7 +1,7 @@
 # 👋🏻 Hi, I'm Casilyn
 
 🎨 I enjoy combining creative programming, 3D graphics, and generative art to build intuitive, design-driven web experiences.  
-💡 I'm Currently diving deeper into Three.js, graphic design, and 3D creation with Blender while building a stronger coding foundation through data structures and algorithms.
+💡 I'm currently diving deeper into Three.js, graphic design, and 3D creation with Blender while building a stronger coding foundation through data structures and algorithms.
 
 ---
 
@@ -36,7 +36,9 @@ For organised studies, technical learning, and certifications, visit my workspac
 <p align="center">
   <a href="https://casilynzirui.tech" target="_blank">Portfolio Website</a> •
   <a href="https://github.com/by-zr" target="_blank">GitHub Organisation</a> •
-  <a href="https://www.linkedin.com/in/casilynzirui/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/casilynzirui/" target="_blank">LinkedIn</a> •
+  <a href="https://www.leetcode.com/casilynzirui/" target="_blank">LeetCode</a> •
+  <a href="https://www.kaggle.com/casilynzirui/" target="_blank">Kaggle</a> 
 </p>
 
 <p align="center">
