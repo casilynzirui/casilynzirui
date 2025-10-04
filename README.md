@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Casilyn
 
-🎨 I enjoy combining creative programming, 3D graphics, and generative art to build intuitive, design-driven web experiences.
+🎨 I enjoy combining creative programming, 3D graphics, and generative art to build intuitive, design-driven web experiences.  
 💡 I'm Currently diving deeper into Three.js, graphic design, and 3D creation with Blender while building a stronger coding foundation through data structures and algorithms.
 
 ---
