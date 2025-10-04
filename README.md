@@ -1,42 +1,42 @@
-# 👋 Hi, I'm Casilyn
+# 👋🏻 Hi, I'm Casilyn
 
-🎨 Exploring creative coding, 3D, generative art, and UX design — blending code, visuals, and interaction into meaningful digital experiences.  
-💡 Currently diving deeper into machine learning, Three.js, and design systems.
-
----
-
-## 🧭 About My Work
-
-This profile showcases personal experiments, creative studies, and design explorations.  
-For my organised projects and technical studies, visit my workspace below:
-
-👉 **[Casilyn's Workspace (by-zr)](https://github.com/by-zr)**
-
-There you’ll find:
-- 🧠 **Study repositories** — for Python, Three.js, and React  
-- 🧵 **Creative coding projects** — blending art & interactivity  
-- 🎓 **Certifications & learning journey** — structured in a collapsible format  
-- 💼 **Portfolio-ready showcases** — focused on creative tech and UX  
+🎨 I enjoy combining creative programming, 3D graphics, and generative art to build intuitive, design-driven web experiences.
+💡 I'm Currently diving deeper into Three.js, graphic design, and 3D creation with Blender while building a stronger coding foundation through data structures and algorithms.
 
 ---
 
-## 🧰 Tools & Interests
+## 🪄 About My Work
 
-`Creative Coding` · `Three.js` · `React` · `Python` · `UX Design` · `Generative Art` · `Machine Learning` · `Supabase`
+This profile features my favourite projects and design explorations.  
+For organised studies, technical learning, and certifications, visit my workspace below:
+
+👉🏻 **[Casilyn's Workspace](https://github.com/by-zr)**
 
 ---
 
-## ✨ Currently Exploring
-- 🧠 AI + Creativity: generative visuals & interaction design  
-- 🎨 3D on the web: immersive frontends with Three.js  
-- 💬 Building my own AI-powered portfolio assistant  
+## 🔮 Tools & Interests
+
+**Languages & Frameworks:**  
+`JavaScript` · `TypeScript` · `Python` · `HTML` · `CSS` · `React` · `React Native`  
+
+**Creative & 3D Tools:**  
+`Three.js` · `Blender` · `Figma` · `Adobe XD` · `Generative Art`  
+
+**Design & UX:**  
+`UX Design` · `UI Design` · `Prototyping` · `Interaction Design` · `Design Systems`  
+
+**Databases & Platforms:**  
+`Supabase` · `Git` 
+
+**Learning & Exploration:**  
+ `Adobe Creative Suite` · `WebGL`
 
 ---
 
 <p align="center">
-  <a href="https://casilynzirui.tech" target="_blank">🌐 Portfolio Website</a> •
-  <a href="https://github.com/by-zr" target="_blank">🏗️ GitHub Organisation</a> •
-  <a href="https://www.linkedin.com/in/casilynzirui/" target="_blank">💼 LinkedIn</a>
+  <a href="https://casilynzirui.tech" target="_blank">Portfolio Website</a> •
+  <a href="https://github.com/by-zr" target="_blank">GitHub Organisation</a> •
+  <a href="https://www.linkedin.com/in/casilynzirui/" target="_blank">LinkedIn</a>
 </p>
 
 <p align="center">
