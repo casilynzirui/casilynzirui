@@ -44,5 +44,5 @@ For organised studies, technical learning, and certifications, visit my workspac
 </p>
 
 <p align="center">
-  <sub><em>Crafted with code and curiosity.</em></sub>
+  <sub><em>© Casilynzirui • Crafted with code and curiosity • Singapore</em></sub>
 </p>
