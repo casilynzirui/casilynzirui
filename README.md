@@ -1,48 +1,38 @@
-# 👋🏻 Hi, I'm Casilyn
+# Hi, I’m Casilyn
 
-🎨 I enjoy combining creative programming, 3D graphics, and generative art to build intuitive, design-driven web experiences.  
-💡 I'm currently diving deeper into Three.js, graphic design, and 3D creation with Blender while building a stronger coding foundation through data structures and algorithms.  
-🧩 Beyond personal projects, I’ve collaborated on and built React Native apps for clients, designing the app structure and frontend while crafting polished, user-centered UI/UX experiences.  
-🌱 Despite my interest in creative development, I’m versatile and continuously exploring new technologies, languages, and frameworks to grow as a developer and designer.
+I work at the intersection of creative development, 3D, and interaction design — building intuitive, visually driven web experiences.
 
----
+Currently exploring Three.js, Blender, and design systems, while strengthening my foundation in JavaScript and data structures.
 
-## 🪄 About My Work
-
-This profile features my favourite projects and design explorations.  
-For organised studies, technical learning, and certifications, visit my workspace below:
-
-👉🏻 **[Casilyn's Workspace](https://github.com/by-zr)**
+I’ve also built React Native applications, focusing on frontend architecture and crafting clean, user-centered interfaces.
 
 ---
 
-## 🔮 Tools & Interests
+## Work
 
-**Languages & Frameworks:**  
-`JavaScript` · `TypeScript` · `Python` · `HTML` · `CSS` · `React` · `React Native`  
+A selection of projects and ongoing explorations in motion, interaction, and creative coding.
 
-**Creative & 3D Tools:**  
-`Three.js` · `Blender` · `Figma` · `Adobe XD` · `Generative Art`  
+For structured learning and technical studies:  
+→ **[Workspace](https://github.com/by-zr)**
 
-**Design & UX:**  
-`UX Design` · `UI Design` · `Prototyping` · `Interaction Design` · `Design Systems`  
+---
 
-**Databases & Platforms:**  
-`Supabase` · `Git` 
+## Stack
 
-**Learning & Exploration:**  
- `Adobe Creative Suite` · `WebGL`
+JavaScript · TypeScript · Python · React · React Native  
+Three.js · Blender · Figma  
+Supabase · Git
 
 ---
 
 <p align="center">
-  <a href="https://casilynzirui.tech" target="_blank">Portfolio Website</a> •
-  <a href="https://github.com/by-zr" target="_blank">GitHub Organisation</a> •
+  <a href="https://casilynzirui.tech" target="_blank">Portfolio</a> •
+  <a href="https://github.com/by-zr" target="_blank">Workspace</a> •
   <a href="https://www.linkedin.com/in/casilynzirui/" target="_blank">LinkedIn</a> •
   <a href="https://www.leetcode.com/casilynzirui/" target="_blank">LeetCode</a> •
   <a href="https://www.kaggle.com/casilynzirui/" target="_blank">Kaggle</a> 
 </p>
 
 <p align="center">
-  <sub><em>© Casilynzirui • Crafted with code and curiosity • Singapore</em></sub>
+  <sub><em>© Casilyn Zirui Soong</em></sub>
 </p>
