@@ -27,7 +27,6 @@ Supabase · Git
 
 <p align="center">
   <a href="https://casilynzirui.tech" target="_blank">Portfolio</a> •
-  <a href="https://github.com/by-zr" target="_blank">Workspace</a> •
   <a href="https://www.linkedin.com/in/casilynzirui/" target="_blank">LinkedIn</a> •
   <a href="https://www.leetcode.com/casilynzirui/" target="_blank">LeetCode</a> •
   <a href="https://www.kaggle.com/casilynzirui/" target="_blank">Kaggle</a> 
