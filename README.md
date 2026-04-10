@@ -2,7 +2,7 @@
 
 I work at the intersection of creative development, 3D, and interaction design — building intuitive, visually driven web experiences.
 
-Building interactive 3D experiences with Three.js and Blender, while strengthening my foundation in JavaScript and data structures.
+I explore interactive 3D experiences with Three.js and Blender, while strengthening my foundation in JavaScript and data structures.
 
 I’ve also developed React Native applications, focusing on frontend architecture and crafting clean, user-centered interfaces.
 
