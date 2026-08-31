@@ -13,7 +13,7 @@ I’ve also developed React Native applications, focusing on frontend architectu
 A selection of projects and ongoing explorations in motion, interaction, and creative coding.
 
 For structured learning and technical studies:  
-→ **[Workspace](https://github.com/by-rae)**
+→ **[Workspace](https://github.com/ziruicasilyn)**
 
 ---
 
