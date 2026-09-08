@@ -5,11 +5,12 @@
     <img
       src="https://render.gitanimals.org/lines/casilynzirui"
       width="100%"
-      height="120"
+      height="150"
     />
   </a>
 </div>
-  
+
+   
 I work at the intersection of creative development, 3D, and interaction design — building intuitive, visually driven web experiences.
 
 I explore interactive 3D experiences with Three.js and Blender, while strengthening my foundation in JavaScript and data structures.
