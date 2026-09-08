@@ -1,13 +1,11 @@
 # Hi, I’m Casilyn
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=casilynzirui&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/casilynzirui"
-      width="100%"
-      height="200"
-    />
-  </a>
-</div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=casilynzirui&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/casilynzirui"
+    width="100%"
+    height="200"
+  />
+</a>
    
 I work at the intersection of creative development, 3D, and interaction design — building intuitive, visually driven web experiences.
 
