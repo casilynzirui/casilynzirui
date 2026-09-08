@@ -2,7 +2,7 @@
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=casilynzirui&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/casilynzirui?backgroundColor=ffffff"
+    src="https://render.gitanimals.org/lines/casilynzirui"
     width="1000"
     height="120"
   />
