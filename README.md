@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=casilynzirui&utm_content=line">
     <img
-      src="https://render.gitanimals.org/lines/casilynzirui?pet-id=3"
+      src="https://render.gitanimals.org/lines/casilynzirui"
       width="100%"
       height="100"
     />
