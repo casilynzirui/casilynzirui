@@ -31,7 +31,7 @@ Supabase · Git
 <img
   src="https://render.gitanimals.org/farms/casilynzirui"
   width="600"
-  height="200"
+  height="300"
 />
 </a>
 
