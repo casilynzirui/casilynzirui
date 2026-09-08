@@ -5,7 +5,7 @@
     <img
       src="https://render.gitanimals.org/lines/casilynzirui"
       width="100%"
-      height="100"
+      height="120"
     />
   </a>
 </div>
