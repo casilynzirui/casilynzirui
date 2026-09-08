@@ -25,6 +25,18 @@ Supabase · Git
 
 ---
 
+## Farm?
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=casilynzirui&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/casilynzirui"
+  width="600"
+  height="300"
+/>
+</a>
+
+---
+
 <p align="center">
   <a href="https://casilynzirui.tech" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/casilynzirui/" target="_blank">LinkedIn</a> •
