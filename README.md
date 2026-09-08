@@ -1,5 +1,13 @@
 # Hi, I’m Casilyn
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=casilynzirui&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/casilynzirui"
+    width="1000"
+    height="120"
+  />
+</a>
+  
 I work at the intersection of creative development, 3D, and interaction design — building intuitive, visually driven web experiences.
 
 I explore interactive 3D experiences with Three.js and Blender, while strengthening my foundation in JavaScript and data structures.
@@ -22,17 +30,6 @@ For structured learning and technical studies:
 JavaScript · TypeScript · Python · React · React Native  
 Three.js · Blender · Figma  
 Supabase · Git
-
----
-
-## Farm?
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=casilynzirui&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/casilynzirui"
-  width="1000"
-/>
-</a>
 
 ---
 
