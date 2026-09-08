@@ -30,6 +30,7 @@ Supabase · Git
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=casilynzirui&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/casilynzirui"
+  width="1000"
 />
 </a>
 
